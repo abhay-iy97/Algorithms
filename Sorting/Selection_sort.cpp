@@ -16,7 +16,6 @@ void selection_sort(int A[100], int n) {
   }
 }
 int main() {
-
   int n, A[100];
   cout << "Enter size\n";
   cin >> n;
