@@ -12,7 +12,6 @@ void selection_sort(int A[100], int n) {
       if (A[i] > A[j])
         swap(A[i], A[j]);
     }
-    P
   }
 }
 int main() {
